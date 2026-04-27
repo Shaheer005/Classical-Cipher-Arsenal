@@ -50,7 +50,7 @@ Perfect for:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Classical-Cipher-Arsenal.git
+   git clone https://github.com/Shaheer005/Classical-Cipher-Arsenal.git
    cd Classical-Cipher-Arsenal
    ```
 
@@ -228,8 +228,7 @@ Classical-Cipher-Arsenal/
 ├── vigenere.py            # Vigenère cipher with Kasiski examination
 ├── substitution.py        # Substitution cipher with frequency analysis
 ├── cipher_arsenal.py      # Main interactive menu system
-├── README.md              # This file
-└── __pycache__/           # Python cache (auto-generated)
+└── README.md              # This file
 ```
 
 ### File Descriptions
@@ -247,14 +246,6 @@ Classical-Cipher-Arsenal/
 
 **Course**: Information Security (Semester 8)  
 **University**: DHA Suffa University
-
-### Team Members
-| Name | ID | Role |
-|------|-----|------|
-| Shaheer Ahmed | CS221107 | Developer |
-| Sumeet Jani | CS221109 | Developer |
-| Ahmed Mubarak | CS221116 | Developer |
-| Taha Ahmed | CS221029 | Developer |
 
 ---
 
