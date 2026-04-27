@@ -389,14 +389,4 @@ Contributions are welcome! Feel free to:
 
 **Group Delta**  
 Information Security Project  
-DHA Suffa University  
-
----
-
-<div align="center">
-
-**Made with ❤️ for Learning Cryptography**
-
-[⬆ back to top](#-classical-cipher-arsenal)
-
-</div>
+DHA Suffa University
